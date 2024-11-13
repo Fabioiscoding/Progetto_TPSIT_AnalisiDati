@@ -1121,6 +1121,7 @@
             "spectral_img": null,
             "summary": "Scandium is a chemical element with symbol Sc and atomic number 21. A silvery-white metallic d-block element, it has historically been sometimes classified as a rare earth element, together with yttrium and the lanthanoids. It was discovered in 1879 by spectral analysis of the minerals euxenite and gadolinite from Scandinavia.",
             "symbol": "Sc",
+            "radioactive" : "No",
             "xpos": 3,
             "ypos": 4,
             "wxpos": 17,
